@@ -1,5 +1,5 @@
 # MEDL‐Net
-code for: [A model‐based neural network for MRI reconstruction with enhanced deep learned regularizers](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29575)
+code for: [MEDL-Net: A model‐based neural network for MRI reconstruction with enhanced deep learned regularizers](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29575)
 
 ## Environmental Requirements
 ```
