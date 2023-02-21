@@ -9,7 +9,7 @@ def parse_opts():
     """
     parser = argparse.ArgumentParser(description="DeepLearning", formatter_class=RawTextHelpFormatter)
     parser.add_argument('--num_worker', default=0, type=int)
-    parser.add_argument('--data_dir', default=os.path.expanduser('~') + '/codes/data/knee/', type=str) # put the data here
+    parser.add_argument('--data_dir', default=os.path.expanduser('~') + '/codes/data/knee/', type=str) # data directory
     parser.add_argument('--acceleration', default=4, type=int)
     parser.add_argument('--center_fraction', default=0.08, type=float)
     parser.add_argument('--sequence', default='coronal_pd', type=str)
