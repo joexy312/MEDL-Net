@@ -19,4 +19,5 @@ python main.py
 
 [1] Qiao X, Huang Y, Li W. MEDL-Net: A model-based neural network for MRI reconstruction with enhanced deep learned regularizers[J]. Magnetic resonance in medicine.
 
+## E-mail
 If you have any problem, please feel free to contact me: d210201019@stu.cqupt.edu.cn 
